@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  .meme-form {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"],
+  input[type="url"],
+  button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .meme img {
+    max-width: 100%;
+  }
+  
+  
